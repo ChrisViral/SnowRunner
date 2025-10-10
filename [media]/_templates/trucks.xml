@@ -36,7 +36,7 @@
 			UiName="UI_TIRE_TYPE_HIGHWAY_NAME"
 		/>
 		<ScoutChains
-			BodyFriction="4.0"
+			BodyFriction="3.0"
 			BodyFrictionAsphalt="60.0"
 			IsIgnoreIce="true"
 			SubstanceFriction="4.0"
