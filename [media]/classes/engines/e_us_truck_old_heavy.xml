@@ -45,7 +45,7 @@
 		EngineResponsiveness="0.15"
 		FuelConsumption="5.7"
 		Name="us_truck_old_heavy_engine_1"
-		Torque="190000"
+		Torque="200000"
 		DamagedMinTorqueMultiplier="1.0"
 		DamagedMaxTorqueMultiplier="0.7"
 	>
@@ -70,7 +70,7 @@
 		EngineResponsiveness="0.2"
 		FuelConsumption="6.5"
 		Name="us_truck_old_heavy_engine_2"
-		Torque="210000"
+		Torque="235000"
 		DamagedMinTorqueMultiplier="1.0"
 		DamagedMaxTorqueMultiplier="0.6"
 	>
