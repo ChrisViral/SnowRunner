@@ -312,6 +312,9 @@
 		<CraneSocket Pos="(1.666; 1.585; -1.437)" />
 		<CraneSocket Pos="(1.666; 1.585; 1.437)" />
 		<CraneSocket Pos="(-3.56; 1.43; 0)" />
+		<AddonSockets DefaultAddon="tuz_tank_snorkel_default">
+			<Socket Names="Tuz420TatarinSnorkel" Offset="(-3.55; -0.6; -0.4)" RotationOffset="(-3.7; -.3; 0)" ParentFrame="BoneCabin_cdt" />
+		</AddonSockets>
 		<AddonSockets>
 			<Socket Names="Trailer" Offset="(-3.56; 0.75; 0)" />
 			<Socket Names="ScautTrailer" Offset="(-3.56; 0.75; 0)">

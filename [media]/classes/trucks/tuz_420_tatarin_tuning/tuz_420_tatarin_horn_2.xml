@@ -1,16 +1,20 @@
-<_parent File="tuz_420_tatarin_horn_1" />
+<_templates Include="trucks" />
 <TruckAddon>
-	<PhysicsModel Mesh="trucks/tuz_420_tatarin_tuning/tuz_420_tatarin_horn_2" />
+	<Snorkel Origin="(2.5; 3.2; 0)" />
+	<PhysicsModel Mesh="trucks/azov_5319_tuning/azov_5319_snorkel_2" />
 	<GameData
-		Price="1000"
+		CameraPreset="roof"
+		Category="snorkel"
+		Price="3200"
 		UnlockByExploration="false"
-		UnlockByRank="27"
+		UnlockByRank="26"
 	>
 		<UiDesc
-			UiDesc="UI_TUNING_HORNS_TWIN_TWOSIDE_DESC"
+			UiDesc="UI_TUNING_SNORKEL_WEDGECAP_DESC"
 			UiIcon30x30=""
 			UiIcon40x40=""
-			UiName="UI_TUNING_HORNS_TWIN_TWOSIDE_NAME"
+			UiName="UI_TUNING_SNORKEL_WEDGECAP_NAME"
 		/>
+		<InstallSocket Type="Tuz420TatarinSnorkel" />
 	</GameData>
 </TruckAddon>
