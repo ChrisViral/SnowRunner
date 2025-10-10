@@ -313,6 +313,12 @@
 		<CraneSocket Pos="(1.666; 1.585; 1.437)" />
 		<CraneSocket Pos="(-3.56; 1.43; 0)" />
 		<AddonSockets>
+			<Socket Names="Trailer" Offset="(-3.56; 0.75; 0)" />
+			<Socket Names="ScautTrailer" Offset="(-3.56; 0.75; 0)">
+				<AddonsShift Offset="(-0.069; 0; 0)" Types="Tuz420TatarinTrunk" />
+			</Socket>
+		</AddonSockets>
+		<AddonSockets>
 			<Socket Names="Tuz420TatarinTrunk" />
 		</AddonSockets>
 		<AddonSockets>

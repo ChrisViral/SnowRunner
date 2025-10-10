@@ -339,6 +339,9 @@
 		<CraneSocket Pos="(2.051; 0.589; -0.901)" />
 		<CraneSocket Pos="(2.051; 0.589; 0.901)" />
 		<CraneSocket Pos="(-1.189; 0.489; 0)" />
+		<AddonSockets>
+			<Socket Names="ScautTrailer" Offset="(-1.40; 0.65; 0)" />
+		</AddonSockets>
 		<AddonSockets DefaultAddon="rezvani_hercules_6x6_bumper_default">
 			<Socket Names="Rezvani6x6Bumper" />
 		</AddonSockets>
