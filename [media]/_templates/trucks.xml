@@ -60,7 +60,7 @@
 			BodyFriction="2.4"
 			BodyFrictionAsphalt="80.0"
 			IsIgnoreIce="true"
-			SubstanceFriction="3.2"
+			SubstanceFriction="2.6"
 			UiName="UI_TIRE_TYPE_MUDTIRES_NAME"
 		/>
 		<Highway
