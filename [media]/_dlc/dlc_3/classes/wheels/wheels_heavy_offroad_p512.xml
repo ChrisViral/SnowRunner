@@ -22,7 +22,7 @@
 				UnlockByExploration="false"
 				UnlockByRank="1"
 			>
-				<UiDesc UiDesc="UI_TIRE_OFFROAD_DESC" UiName="UI_TIRE_HEAVY_OFFROAD_DOUBLE_1_NAME" />
+				<UiDesc UiDesc="UI_TIRE_OFFROAD_DESC" UiName="POHD I" />
 			</GameData>
 		</TruckTire>
 	</TruckTires>

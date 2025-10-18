@@ -138,6 +138,7 @@
 			<DamageArea Type="FuelTank" Min="(-1.2; 0.8; -1.4)" Max="(1.4; 1.6; 1.4)" ParentFrame="BoneCabin_cdt" />
 		</Damage>
 		<CompatibleWheels OffsetZ="0" Scale="0.73" RearOffsetZ="-0.1" Type="wheels_heavy_offroad_p12" />
+		<CompatibleWheels OffsetZ="0" Scale="0.73" RearOffsetZ="-0.1" Type="wheels_heavy_double_p16" />
 		<CompatibleWheels OffsetZ=".0" Scale="0.73" RearOffsetZ="0.05" Type="wheels_heavy_double2" />
 		<CompatibleWheels OffsetZ="-0.1" Scale="0.73" RearOffsetZ="-0.1" Type="wheels_heavy_single" />
 		
@@ -148,11 +149,13 @@
 		<CompatibleWheels OffsetZ="0.2" RearOffsetZ="-0.1" Scale="0.73" Type="wheels_heavy_mudtires_single2" />
 
 		<CompatibleWheels OffsetZ="0" Scale="0.83" Type="wheels_heavy_offroad_p12" />
+		<CompatibleWheels OffsetZ="0" Scale="0.83" Type="wheels_heavy_double_p16" />
 		<CompatibleWheels OffsetZ=".0" Scale="0.83" Type="wheels_heavy_double2" />
 		<CompatibleWheels OffsetZ="-0.1" Scale="0.83" Type="wheels_heavy_single" />
 		<CompatibleWheels Scale="0.83" Type="wheels_heavy_single2" />
 
 		<CompatibleWheels OffsetZ="0" Scale="0.88" Type="wheels_heavy_offroad_p12" />
+		<CompatibleWheels OffsetZ="0" Scale="0.88" Type="wheels_heavy_double_p16" />
 		<CompatibleWheels OffsetZ=".0" Scale="0.88" Type="wheels_heavy_double2" />
 		<CompatibleWheels OffsetZ="-0.1" Scale="0.88" Type="wheels_heavy_single" />
 		<CompatibleWheels Scale="0.88" Type="wheels_heavy_single2" />
