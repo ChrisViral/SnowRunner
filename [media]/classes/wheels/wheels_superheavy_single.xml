@@ -10,6 +10,7 @@
 <TruckWheels DamageCapacity="100" Radius="1" Width="0.78">
 	<TruckTires>
 		<TruckTire _template="Mudtires" Mesh="wheels/tire_superheavy_mudtires_1" Name="mudtires_1">
+			<WheelFriction _template="HeavyMudtires"/>
 			<GameData
 				Price="7500"
 				UnlockByExploration="false"

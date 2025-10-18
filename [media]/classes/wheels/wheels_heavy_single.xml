@@ -49,7 +49,7 @@
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Offroad" Mesh="wheels/tire_heavy_chains_single_1" Name="chains_1">
-			<WheelFriction _template="Mudtires" />
+			<WheelFriction _template="Chains" />
 			<GameData
 				Price="6800"
 				UnlockByExploration="false"

@@ -78,10 +78,10 @@
 			UiName="UI_TIRE_TYPE_MUDTIRES_NAME"
 		/>
 		<Chains
-			BodyFriction="3.0"
-			BodyFrictionAsphalt="60.0"
+			BodyFriction="3.2"
+			BodyFrictionAsphalt="80.0"
 			IsIgnoreIce="true"
-			SubstanceFriction="2.4"
+			SubstanceFriction="1.9"
 			UiName="UI_TIRE_TYPE_CHAINS_NAME"
 		/>
 		<Allterrain

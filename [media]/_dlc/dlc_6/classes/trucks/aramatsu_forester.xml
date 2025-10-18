@@ -52,7 +52,7 @@
 		EngineIconScale="1.5"
 		EngineStartDelay="0.6"
 		ExhaustStartTime="0.6"
-		FuelCapacity="217"
+		FuelCapacity="340"
 		Responsiveness="0.05"
 		SteerSpeed="0.017"
 		TruckImage="aramatsuforestermchr"
@@ -332,7 +332,7 @@
 			<Socket Names="FrameAddonLogsMediumAramatsu" Offset="(0; 0; 0)" />
 		</AddonSockets>
 		<AddonSockets>
-			<Socket Names="Trailer" Offset="(-5.282; 1.047; 0)">
+			<Socket Names="Trailer, LogTrailer" Offset="(-5.282; 1.047; 0)">
 				<AddonsShift Offset="(-1.038; 0; 0)" Types="FrameAddonLogsMediumAramatsu" />
 			</Socket>
 		</AddonSockets>

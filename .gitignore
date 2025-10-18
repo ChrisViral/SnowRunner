@@ -1,4 +1,5 @@
 
 *.pak
 *.lnk
-temp/
+[Tt]emp/
+[Vv]anilla/
