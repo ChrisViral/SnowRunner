@@ -24,4 +24,29 @@
 			/>
 		</GameData>
 	</SuspensionSet>
+	<SuspensionSet
+		_template="Active"
+		BrokenWheelDamageMultiplier="2"
+		CriticalDamageThreshold="0.6"
+		DamageCapacity="140"
+		Name="zikz_612h_mastodont_suspension_active"
+		DeviationDelta=".002"
+	>
+		<Suspension Damping="0.5" Height="0.065" Strength="0.065" WheelType="front" BrokenSuspensionMin="-0.2" BrokenSuspensionMax="0.2" SuspensionMin="-0.25" SuspensionMax="0.1" DeviationMax="0.2" />
+		<Suspension Damping="0.55" Height="0.07" Strength="0.07" WheelType="front2" BrokenSuspensionMin="-0.25" BrokenSuspensionMax="0.1" SuspensionMin="-0.25" SuspensionMax="0.1" DeviationMax="0.2" />
+		<Suspension Damping="0.75" Height="0.03" Strength="0.1" WheelType="rear" BrokenSuspensionMin="-0.2" BrokenSuspensionMax="0.1" SuspensionMin="-0.2" SuspensionMax="0.1" DeviationMax="0.2" />
+		<Suspension Damping="0.85" Height="0.03" Strength="0.12" WheelType="rear2" BrokenSuspensionMin="-0.2" BrokenSuspensionMax="0.1" SuspensionMin="-0.2" SuspensionMax="0.1" DeviationMax="0.2" />
+		<GameData
+			Price="9000"
+			UnlockByExploration="false"
+			UnlockByRank="7"
+		>
+			<UiDesc
+				UiDesc="UI_SUSPENSION_ACTIVE_DESC"
+				UiIcon30x30=""
+				UiIcon40x40=""
+				UiName="UI_SUSPENSION_ACTIVE_NAME"
+			/>
+		</GameData>
+	</SuspensionSet>
 </SuspensionSetVariants>
