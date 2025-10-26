@@ -500,7 +500,7 @@
 		<AddonSockets>
 			<Socket Names="Semitrailer, SemitrailerOiltank" Offset="(-3.5; 1.5; 0)" />
 			<Socket Names="LargeSemitrailer, LargeSemitrailerOiltank" Offset="(-3.2; 1.6; 0)" />
-			<Socket Names="Trailer" Offset="(-5.660; 0.65; 0)"/>
+			<Socket Names="Trailer, LogTrailer" Offset="(-5.660; 0.65; 0)"/>
 		</AddonSockets>
 		<AddonSockets>
 			<Socket Names="SaddleLow" Offset="(-3.5; 1.097; 0)" ParentFrame="BoneChassis_cdt">
