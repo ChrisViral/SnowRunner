@@ -12,7 +12,7 @@
 		<TruckTire _template="Offroad" Mesh="wheels/tire_kenworth_990" Name="offroad">
 			<WheelFriction 
 				_template="Offroad"
-				SubstanceFriction="3.4"
+				SubstanceFriction="3.5"
 			/>
 			<GameData
 				Price="6000"
