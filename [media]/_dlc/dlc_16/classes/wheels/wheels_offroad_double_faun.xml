@@ -15,6 +15,9 @@
 >
 	<TruckTires>
 		<TruckTire _template="Mudtires" Mesh="wheels/tire_faun" Name="tire_1">
+			<WheelFriction
+				_template="HeavyMudtires"
+			/>
 			<GameData
 				Price="7500"
 				UnlockByExploration="false"

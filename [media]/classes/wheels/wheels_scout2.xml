@@ -73,7 +73,7 @@
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="ScoutChains" Mesh="wheels/tire_scout_chain_1" Name="chain_1" Width="0.72">
-			<WheelFriction _template="ScoutOffroad"/>
+			<WheelFriction _template="ScoutChains"/>
 			<GameData
 				Price="5700"
 				UnlockByExploration="false"

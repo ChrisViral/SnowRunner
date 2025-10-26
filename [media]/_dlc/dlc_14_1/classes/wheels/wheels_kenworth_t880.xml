@@ -12,6 +12,7 @@
 		<TruckTire _template="Allterrain" Mesh="wheels/tire_kenworth_t880" Name="tire_1">
 			<WheelFriction 
 				_template="Allterrain"
+				SubstanceFriction="2.1"
 			/>
 			<GameData
 				Price="6600"

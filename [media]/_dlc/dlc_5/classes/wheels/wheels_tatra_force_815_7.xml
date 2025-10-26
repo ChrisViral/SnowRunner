@@ -10,7 +10,7 @@
 <TruckWheels DamageCapacity="100" Radius="1" Width="0.58">
 	<TruckTires>
 		<TruckTire _template="Mudtires" Mesh="wheels/tire_tatra_force_815_7" Name="tire">
-			<WheelFriction _template="HeavyMudtires" SubstanceFriction="3.4" />
+			<WheelFriction _template="HeavyMudtires" />
 			<GameData
 				Price="7500"
 				UnlockByExploration="false"

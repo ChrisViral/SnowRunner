@@ -124,7 +124,7 @@
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Allterrain" Mesh="wheels/tire_medium_chains_rear_double" Name="chains_rear">
-			<WheelFriction _template="Allterrain" Rear="true"/>       
+			<WheelFriction _template="Chains" Rear="true"/>       
 			<GameData
 				Price="6100"
 				UnlockByExploration="false"
@@ -134,7 +134,7 @@
 			</GameData>
 		</TruckTire>
 		<TruckTire _template="Chains" Mesh="wheels/tire_medium_chains_all_double" Name="chains_all">
-			<WheelFriction _template="Allterrain"/>
+			<WheelFriction _template="Chains"/>
 			<GameData
 				Price="6400"
 				UnlockByExploration="false"

@@ -11,7 +11,8 @@
 	<TruckTires>
 		<TruckTire _template="Mudtires" Mesh="wheels/tire_sleiter_mfk816" Name="sleiter_tire_1">
 			<WheelFriction 
-				_template="HeavyMutires"
+				_template="HeavyMudtires"
+				BodyFrictionAsphalt="80.0"
 			/>
 			<GameData
 				Price="6500"

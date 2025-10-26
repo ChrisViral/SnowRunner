@@ -12,6 +12,7 @@
 		<TruckTire _template="Allterrain" Mesh="wheels/tire_western_star_6900xd" Name="allterrain_ws">
 			<WheelFriction 
 				_template="Allterrain"
+				SubstanceFriction="1.8"
 			/>
 			<GameData
 				Price="6800"

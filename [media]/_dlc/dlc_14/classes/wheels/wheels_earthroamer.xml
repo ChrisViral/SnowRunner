@@ -11,7 +11,8 @@
 	<TruckTires>
 		<TruckTire _template="Offroad" Mesh="wheels/tire_earthrommer" Name="earthroamer_offroad">
 		<WheelFriction
-				_template="ScoutOffroad"
+				_template="Offroad"
+				BodyFrictionAsphalt="90.0"
 			/>
 			<GameData
 				Price="4500"

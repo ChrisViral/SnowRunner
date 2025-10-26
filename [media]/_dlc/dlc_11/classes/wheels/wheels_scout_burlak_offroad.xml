@@ -10,7 +10,9 @@
 	<TruckTires>
 		<TruckTire _template="Offroad" Mesh="wheels/tire_burlak_6x6" Name="tire">
 			<WheelFriction 
-				_template="ScoutMudtires"
+				_template="Offroad"
+				BodyFriction="3.4"
+				SubstanceFriction="2.4"
 			/>
 			<GameData
 				Price="2300"

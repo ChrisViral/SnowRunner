@@ -12,6 +12,7 @@
 		<TruckTire _template="Allterrain" Mesh="wheels/tire_kenworth_c500" Name="tire_1">
 			<WheelFriction 
 				_template="Allterrain"
+				BodyFrictionAsphalt="100.0"
 			/>
 			<GameData
 				Price="7000"
