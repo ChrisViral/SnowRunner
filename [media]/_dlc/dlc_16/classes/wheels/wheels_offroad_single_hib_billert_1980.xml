@@ -11,9 +11,6 @@
 		<TruckTire _template="Mudtires" Mesh="wheels/tire_hib_billert_1980" Name="tire_billert_1">
 			<WheelFriction
 				_template="Offroad"
-				BodyFriction="2.7"
-				BodyFrictionAsphalt="1.2"
-				SubstanceFriction="1.6"
 			/>
 			<GameData
 				Price="5700"
