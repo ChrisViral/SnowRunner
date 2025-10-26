@@ -55,7 +55,7 @@
 		EngineIconScale="1"
 		EngineStartDelay="0.6"
 		ExhaustStartTime="0.6"
-		FuelCapacity="180"
+		FuelCapacity="200"
 		InstallTrailerAddonRequired="ankatra_1160_farkop_trailer, ankatra_1160_coupler"
 		Responsiveness="0.8"
 		SteerSpeed="0.02"

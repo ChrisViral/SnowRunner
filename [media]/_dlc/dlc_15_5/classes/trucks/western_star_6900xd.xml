@@ -30,7 +30,7 @@
 		EngineIconScale="1.0"
 		EngineStartDelay="0.8"
 		ExhaustStartTime="0.9"
-		FuelCapacity="320"
+		FuelCapacity="350"
 		Responsiveness="0.45"
 		SteerSpeed="0.025"
 		TruckImage="WesternStar6900XDmhcr"
